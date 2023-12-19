@@ -9,9 +9,6 @@ Instructed by [<img src="https://cs330.stanford.edu/images/chelsea_new.jpeg" wid
 
 # Final Project: Context-aware Stock Market Movement Prediction
 
-<img src="https://github.com/irinamarton/Stanford-CS229-Final-Project/blob/main/CS229%20-%20Poster%20-%20Irina%20A%20Marton%20-%20s.jpg" width="800"/>
-
-
 
 ### [CODE](https://github.com/irinamarton/Stanford-CS330-Final-Project/tree/fa1a9362d9470dc2fbeb9a4502a445ddf1317da5/Code)
 
