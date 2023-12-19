@@ -7,7 +7,10 @@
 Instructed by [<img src="https://cs330.stanford.edu/images/chelsea_new.jpeg" width="20px" height="20px"/> Chelsea Finn](https://ai.stanford.edu/~cbfinn/)
 
 
-# Final Project: Context-aware Stock Market Movement Prediction
+# Context-aware Stock Market Movement Prediction
+
+<img src="https://github.com/irinamarton/Stanford-CS330-Final-Project/blob/0161e4eaf13b09d32c0ba9b38dd034d572173ac7/CS330%20-%20Project%20Poster_Irina%20Alexandra%20Marton.jpeg" width="800"/>
+
 
 
 ### [CODE](https://github.com/irinamarton/Stanford-CS330-Final-Project/tree/fa1a9362d9470dc2fbeb9a4502a445ddf1317da5/Code)
